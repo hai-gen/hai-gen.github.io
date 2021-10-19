@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Program
+  link: /program/
+- name: Organizers
+  link: /organizers/
+- name: Call for Participation
+  link: /cfp/
